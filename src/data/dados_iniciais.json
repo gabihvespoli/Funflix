@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Doug",
+      "link": "https://i.pinimg.com/originals/a0/d9/cf/a0d9cf5a1eac573f3278a51c0e522fe2.jpg",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Curiosidades sobre o desenho",
+        "url": "https://www.hypeness.com.br/2016/08/depois-de-mais-de-duas-decadas-criador-revela-se-doug-e-patti-maionese-podem-ficar-juntos/"
+      },
+      "videos": [
+        {
+          "titulo": "Doug é uma série animada americana muito famosa na década de 90.",
+          "url": "https://www.youtube.com/watch?v=i2tfC6OMbPk"
+        },
+        {
+          "titulo": "Doug Entra em Campo",
+          "url": "https://www.youtube.com/watch?v=nCUnMwo5aow"
+        },
+        {
+          "titulo": "O Narigão",
+          "url": "https://www.youtube.com/watch?v=y5rd9Qodqz4"
+        },
+        {
+          "titulo": "Formatura",
+          "url": "https://www.youtube.com/watch?v=YNlccH8YXUk"
+        },
+        {
+          "titulo": "Durango",
+          "url": "https://www.youtube.com/watch?v=Dnx22IA0Nvw"
+        },
+        {
+          "titulo": "Perfeito por um dia",
+          "url": "https://www.youtube.com/watch?v=7IKGwDhJTc0"
+        },
+        {
+          "titulo": "É namoro",
+          "url": "https://www.youtube.com/watch?v=0_Jfn0tulaU"
+        },
+        {
+          "titulo": "Na malhação",
+          "url": "https://www.youtube.com/watch?v=dhspX4H52Xg"
+        }        
+      ]
+    },
+    {
+      "titulo": "O fantástico mundo de Bobby",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Curiosidades sobre o desenho",
+        "url": "https://designcomcafe.com.br/criatividade-fantastico-mundo-de-bobby/"
+      },
+      "videos": [
+        {
+          "titulo": "A vingança do Dr. Noo",
+          "url": "https://www.youtube.com/watch?v=HISfYhRkUz8"
+        },
+        {
+          "titulo": "Sapinho",
+          "url": "https://www.youtube.com/watch?v=_CFMkYs9Chk"
+        },
+        {
+          "titulo": "Bobby se apaixona",
+          "url": "https://www.youtube.com/watch?v=jfZ3St5k6M8"
+        },
+        {
+          "titulo": "O bom de tampinhas",
+          "url": "https://www.youtube.com/watch?v=4faFmdJEpfU"
+        }, 
+        {
+          "titulo": "Hora após hora",
+          "url": "https://www.youtube.com/watch?v=DDR1Oij6Djc"
+        }
+      ]
+    },
+    {
+      "titulo": "As aventuras de Tim Tim",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Curiosidades sobre o desenho",
+        "url": "https://aventurasnahistoria.uol.com.br/noticias/reportagem/lado-obscuro-as-aventuras-de-tintim.phtml"
+      },
+      "videos": [
+        {
+          "titulo": "Tim Tim na América",
+          "url": "https://www.youtube.com/watch?v=1P3W4cS3wLo"
+        },
+        {
+          "titulo": "O Cetro de Ottokar parte I",
+          "url": "https://www.youtube.com/watch?v=CoWQy0iYQD8"
+        },
+        {
+          "titulo": "O Cetro de Ottokar parte II",
+          "url": "https://www.youtube.com/watch?v=qLJAGqFtbjM"
+        },
+        {
+          "titulo": "O voo 714 para Sidney parte I",
+          "url": "https://www.youtube.com/watch?v=NiHJ4nNRXBo"
+        }
+      ]
+    },
+    {
+      "titulo": "As aventuras de Babar",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Curiosidades sobre o desenho",
+        "url": "https://hqscomcafe.com.br/index.php/2020/02/11/as-aventuras-de-babar/"
+      },
+      "videos": [
+        {
+          "titulo": "O intruso",
+          "url": "https://www.youtube.com/watch?v=LJXPVXpgpC4"
+        },
+        {
+          "titulo": "Lembre-se quando...",
+          "url": "https://www.youtube.com/watch?v=BwWPI8VAJcs"
+        },
+        {
+          "titulo": "Para contar ou não contar",
+          "url": "https://www.youtube.com/watch?v=NfHdHoSqqaU"
+        },
+        {
+          "titulo": "Entre amigos",
+          "url": "https://www.youtube.com/watch?v=zbOEHtgfwSg"
+        }
+      ]
+    },
+    {
+      "titulo": "Tom e Jerry",
+      "cor": "red",
+      "link_extra": {
+        "text": "Curiosidades sobre o desenho",
+        "url": "https://www.legiaodosherois.com.br/lista/10-fatos-e-curiosidades-sobre-tom-jerry.html#list-item-5"
+      },
+      "videos": [
+        {
+          "titulo": "Ano novo, mesma dupla",
+          "url": "https://www.youtube.com/watch?v=Au63DyjBQ7k"
+        },
+        {
+          "titulo": "Qual é o melhor animal?",
+          "url": "https://www.youtube.com/watch?v=1O8lEIbzVGQ"
+        },
+        {
+          "titulo": "Aventura em beira-mar",
+          "url": "https://www.youtube.com/watch?v=n3Nw8MjXWgQ"
+        },
+        {
+          "titulo": "Pegue-me se for capaz!",
+          "url": "https://www.youtube.com/watch?v=IC7kXsnYCWk"
+        },
+        {
+          "titulo": "Diversão em casa",
+          "url": "https://www.youtube.com/watch?v=Dk-nqyL_ayM"
+        }
+      ]
+    },
+    {
+      "titulo": "Inspetor Bugiganga",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curiosidades sobre o desenho",
+        "url": "https://www.megacurioso.com.br/artes-cultura/103394-inspetor-bugiganga-ou-sherlock-holmes-qual-desses-detetives-voce-prefere.htm"
+      },
+      "videos": [
+        {
+          "titulo": "A armadilha louca",
+          "url": "https://www.youtube.com/watch?v=ayv5KS9aPkc"
+        },
+        {
+          "titulo": "A mudança de Kimber",
+          "url": "https://www.youtube.com/watch?v=In-o8GQH9Rg"
+        },
+        {
+          "titulo": "A infiltração",
+          "url": "https://www.youtube.com/watch?v=QiyxM6m_k4Q"
+        },
+        {
+          "titulo": "Dinheiro Falso (parte 1/2)",
+          "url": "https://www.youtube.com/watch?v=CL18cAxWohA"
+        },
+        {
+          "titulo": "Dinheiro Falso (parte 2/2)",
+          "url": "https://www.youtube.com/watch?v=BInBLT_8p4Y"
+        }
+      ]
+    }
+  ]
+}
