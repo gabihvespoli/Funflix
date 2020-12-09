@@ -15,4 +15,4 @@ Se preferir...
 
 ### `Abra a aplicação hospedada na Vercel`
 
-[https://funflix.vercel.app/](https://funflix.vercel.app/){:target="_blank"}
+[https://funflix.vercel.app/](https://funflix.vercel.app/)
